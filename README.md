@@ -7,7 +7,7 @@ This is in Development process yet more powerful multi state Agents.
 # PROJECT WORKS only,
 
 1. create conda environment by using following command: 
-    conda ceate -p Agno_venv python==3.12
+    conda create -p Agno_venv python==3.12
 
 2. Install Dependencies --  pip install -r requirements.txt
 
